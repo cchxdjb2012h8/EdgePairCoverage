@@ -1,3 +1,6 @@
+An algorithm that takes as input a regular expression and outputs a set of negative strings that satisfies edge-pair coverage for its complement automaton. 
+
+
 # EdgePairCoverage
 EdgePairCoverage.ipynb #EPC algorithm
 EdgeCoverage.py #EC algorithm
